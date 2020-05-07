@@ -25,3 +25,6 @@
 .right {
     border-left: 1px black solid;
 }
+.row > div:hover {
+    cursor: pointer
+}
